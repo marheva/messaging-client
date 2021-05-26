@@ -1,0 +1,3 @@
+interface DeleteContactPropsTypes {
+  contactId?: string;
+}
